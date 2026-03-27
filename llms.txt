@@ -1,0 +1,15 @@
+# canifileagain.org
+
+> Plain English guide to all bankruptcy filing bars, waiting periods, and discharge bars.
+
+canifileagain.org is a free, open-source educational resource. Part of the Bankruptcy Transparency Network.
+
+## Pages
+
+- https://canifileagain.org/ -- Overview of all filing bars, waiting periods, and discharge bars
+- https://canifileagain.org/waiting-periods.html -- Detailed waiting period breakdown by chapter
+- https://canifileagain.org/stay-limits.html -- Automatic stay limits for repeat filers
+
+## Contact
+
+This site is maintained by volunteers. No legal advice is provided.
