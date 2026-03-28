@@ -11,23 +11,23 @@
 </script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Bankruptcy Waiting Periods Chart -- All Discharge Bars | canifileagain.org</title>
-<meta name="description" content="Complete chart of all bankruptcy waiting periods: 109(g), 727(a)(8), 727(a)(9), 1328(f)(1), 1328(f)(2). Filing bars vs discharge bars.">
-<meta name="keywords" content="bankruptcy waiting periods, chart, 109(g), 727(a)(8), 727(a)(9), 1328(f)(1), 1328(f)(2), discharge bar, filing bar">
-<link rel="canonical" href="https://canifileagain.org/waiting-periods.html">
-<link rel="alternate" hreflang="en" href="https://canifileagain.org/waiting-periods.html">
+<title>When Can I File Bankruptcy Again? -- Interactive Calculator | canifileagain.org</title>
+<meta name="description" content="Calculate your earliest eligible filing date based on your prior bankruptcy case. Enter your details to check all discharge bars and filing restrictions.">
+<meta name="keywords" content="bankruptcy calculator, when can I file again, earliest filing date, discharge bar calculator, 1328(f), 727(a)(8)">
+<link rel="canonical" href="https://canifileagain.org/calculator.html">
+<link rel="alternate" hreflang="en" href="https://canifileagain.org/calculator.html">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta name="theme-color" content="#0d1117">
 <meta name="last-modified" content="2026-03-28">
 
-<meta property="og:title" content="Bankruptcy Waiting Periods Chart -- All Discharge Bars">
-<meta property="og:description" content="Complete chart of all bankruptcy waiting periods: 109(g), 727(a)(8), 727(a)(9), 1328(f)(1), 1328(f)(2). Filing bars vs discharge bars.">
+<meta property="og:title" content="When Can I File Bankruptcy Again? -- Interactive Calculator">
+<meta property="og:description" content="Calculate your earliest eligible filing date based on your prior bankruptcy case. Enter your details to check all discharge bars and filing restrictions.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://canifileagain.org/waiting-periods.html">
+<meta property="og:url" content="https://canifileagain.org/calculator.html">
 <meta property="og:site_name" content="canifileagain.org">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Bankruptcy Waiting Periods Chart -- All Discharge Bars">
-<meta name="twitter:description" content="Complete chart of all bankruptcy waiting periods: 109(g), 727(a)(8), 727(a)(9), 1328(f)(1), 1328(f)(2). Filing bars vs discharge bars.">
+<meta name="twitter:title" content="When Can I File Bankruptcy Again? -- Interactive Calculator">
+<meta name="twitter:description" content="Calculate your earliest eligible filing date based on your prior bankruptcy case. Enter your details to check all discharge bars and filing restrictions.">
 
 <script type="application/ld+json">
 {
@@ -44,12 +44,12 @@
 {
   "@context": "https://schema.org", "@type": "FAQPage",
   "mainEntity": [
-    {"@type": "Question", "name": "What are the waiting periods between bankruptcy filings?",
-     "acceptedAnswer": {"@type": "Answer", "text": "Ch.7 to Ch.7: 8 years. Ch.7 to Ch.13: 4 years. Ch.13 to Ch.7: 6 years (with exceptions). Ch.13 to Ch.13: 2 years. All measured filing date to filing date."}},
-    {"@type": "Question", "name": "What is the 180-day filing bar?",
-     "acceptedAnswer": {"@type": "Answer", "text": "Section 109(g) bars filing for 180 days if a prior case was dismissed for willful failure to obey court orders, or voluntarily dismissed after a creditor filed a motion for relief from stay."}},
-    {"@type": "Question", "name": "Can I still file even if I cannot get a discharge?",
-     "acceptedAnswer": {"@type": "Answer", "text": "Yes. You can file and get the automatic stay (Section 362) even when a discharge bar applies. But the stay may be limited under 362(c)(3) or (c)(4) if you had recent dismissals."}}
+    {"@type": "Question", "name": "How do I calculate when I can file again?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Enter the filing date and chapter of your prior case, how it ended, and the chapter you want to file now. The calculator checks all applicable discharge bars, filing bars, and stay limits."}},
+    {"@type": "Question", "name": "What dates do I need?",
+     "acceptedAnswer": {"@type": "Answer", "text": "The filing date of your prior case and the date of discharge (if any). Both are available from PACER or from your bankruptcy attorney."}},
+    {"@type": "Question", "name": "What if I had multiple prior cases?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Each prior case must be evaluated separately. The most restrictive bar applies. If you had cases dismissed within the past year, stay limits also apply."}}
   ]
 }
 </script>
@@ -113,75 +113,62 @@
   <button class="hamburger" aria-label="Toggle navigation menu" aria-expanded="false" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">&#9776;</button>
   <div class="nav-links">
     <a href="/">Home</a>
-    <a href="/waiting-periods.html" class="active">Waiting Periods</a>
+    <a href="/waiting-periods.html">Waiting Periods</a>
     <a href="/dismissed-vs-discharged.html">Dismissed vs Discharged</a>
-    <a href="/calculator.html">Calculator</a>
+    <a href="/calculator.html" class="active">Calculator</a>
     <a href="/state-rules.html">State Rules</a>
     <a href="/strategic-refiling.html">Strategic Refiling</a>
   </div>
 </nav>
 
 <header>
-  <h1>Bankruptcy Waiting Periods -- Complete Chart</h1>
-  <p class="subtitle">Every waiting period that affects repeat filers. Filing bars, discharge bars, and automatic stay limits.</p>
+  <h1>Filing Eligibility Calculator</h1>
+  <p class="subtitle">Enter your prior case details to calculate your earliest eligible filing and discharge dates.</p>
 </header>
 
 <main id="main-content">
 
   <div class="content-section">
-    <h2>Discharge Bars -- Master Chart</h2>
+    <h2>Eligibility Calculator</h2>
+    <div class="yellow-box"><p><strong>Full interactive calculator:</strong> Use the comprehensive free screener at <a href="https://1328f.com/check.html">1328f.com/check.html</a> -- it checks all Section 1328(f), 727(a)(8), 727(a)(9), and 109(g) bars automatically.</p></div>
+    <p>To check your eligibility manually, you need:</p>
+    <ol>
+      <li><strong>Filing date</strong> of your prior case</li>
+      <li><strong>Chapter filed</strong> (7, 13, 11, or 12)</li>
+      <li><strong>How it ended</strong> (discharged, dismissed, or converted)</li>
+      <li><strong>Date of discharge</strong> (if applicable)</li>
+      <li><strong>Chapter you want to file now</strong></li>
+    </ol>
+  </div>
+
+  <div class="content-section">
+    <h2>Quick Reference</h2>
     <table>
-      <tr><th scope="col">Prior Case</th><th scope="col">New Case</th><th scope="col">Waiting Period</th><th scope="col">Statute</th></tr>
-      <tr><td>Chapter 7</td><td>Chapter 7</td><td>8 years</td><td><a href="https://727a8.com">727(a)(8)</a></td></tr>
-      <tr><td>Chapter 7</td><td>Chapter 13</td><td>4 years</td><td><a href="https://1328f.com">1328(f)(1)</a></td></tr>
-      <tr><td>Chapter 13</td><td>Chapter 7</td><td>6 years*</td><td>727(a)(9)</td></tr>
-      <tr><td>Chapter 13</td><td>Chapter 13</td><td>2 years</td><td><a href="https://1328f.com">1328(f)(2)</a></td></tr>
-      <tr><td>Chapter 12</td><td>Chapter 7</td><td>6 years*</td><td>727(a)(9)</td></tr>
-      <tr><td>Chapter 11</td><td>Chapter 7</td><td>None (disputed)</td><td>727(a)(8) -- "under this chapter"</td></tr>
+      <tr><th scope="col">Prior</th><th scope="col">New</th><th scope="col">Wait</th><th scope="col">Earliest New Filing</th></tr>
+      <tr><td>Ch.7 (discharged)</td><td>Ch.7</td><td>8 years</td><td>Prior filing date + 8 years</td></tr>
+      <tr><td>Ch.7 (discharged)</td><td>Ch.13</td><td>4 years</td><td>Prior filing date + 4 years</td></tr>
+      <tr><td>Ch.13 (discharged)</td><td>Ch.7</td><td>6 years*</td><td>Prior filing date + 6 years*</td></tr>
+      <tr><td>Ch.13 (discharged)</td><td>Ch.13</td><td>2 years</td><td>Prior filing date + 2 years</td></tr>
+      <tr><td>Any (dismissed)</td><td>Any</td><td>0-180 days</td><td>Depends on 109(g)</td></tr>
     </table>
-    <p style="font-size:0.85rem;color:var(--text-muted)">* The 6-year bar does not apply if the prior Ch.13 paid unsecured creditors 100%, or paid at least 70% and the plan was proposed in good faith with best effort.</p>
-    <div class="statute-box"><p><strong>Key rule:</strong> All bars are measured from <em>filing date to filing date</em>. The prior case must have resulted in a discharge. A dismissed case does not trigger discharge bars (but may trigger 109(g)).</p></div>
+    <p style="font-size:0.85rem;color:var(--text-muted)">* Exception if Ch.13 paid 100% or 70%+ in good faith with best effort</p>
   </div>
 
   <div class="content-section">
-    <h2>Filing Bars</h2>
-    <h3>Section 109(g) -- 180-Day Bar</h3>
-    <p>You cannot file at all for 180 days if:</p>
-    <ul>
-      <li>Your prior case was dismissed for <strong>willful failure to abide by orders of the court</strong> or to appear before the court</li>
-      <li>You voluntarily dismissed your prior case <strong>after a creditor filed a motion for relief from stay</strong></li>
-    </ul>
-    <p>The 109(g) bar prevents filing, not just discharge. You cannot even get the automatic stay during the 180-day period.</p>
-    <p>Full guide: <a href="https://109g.org">109g.org</a></p>
-  </div>
-
-  <div class="content-section">
-    <h2>Automatic Stay Limits for Repeat Filers</h2>
-    <h3>Section 362(c)(3) -- One Prior Dismissal in Past Year</h3>
-    <p>If you had <strong>one</strong> case pending and dismissed within the past year, the automatic stay in your new case automatically terminates after <strong>30 days</strong> unless the court extends it.</p>
-    <p>To extend: file a motion before the 30 days expire. You must show the new filing is in good faith.</p>
-    <h3>Section 362(c)(4) -- Two+ Prior Dismissals in Past Year</h3>
-    <p>If you had <strong>two or more</strong> cases pending and dismissed within the past year, <strong>no automatic stay takes effect at all</strong> unless the court orders it.</p>
-    <p>To get the stay: file an emergency motion. You must show changed circumstances and good faith.</p>
-    <div class="warning-box"><p><strong>This is the harshest penalty for repeat filings.</strong> Without the automatic stay, creditors can continue foreclosure, repossession, garnishment, and all other collection actions even though a bankruptcy is pending.</p></div>
-  </div>
-
-  <div class="content-section">
-    <h2>Check Your Dates</h2>
-    <p>Use these free tools to calculate your earliest eligible filing and discharge dates:</p>
-    <ul>
-      <li><a href="https://1328f.com/check.html">1328f.com discharge screener</a> -- Checks all Section 1328(f) and 727(a)(8)/(9) bars</li>
-      <li><a href="https://109g.org/calculator.html">109g.org calculator</a> -- 180-day filing bar calculator</li>
-      <li><a href="https://727a8.com">727a8.com</a> -- 8-year Chapter 7 discharge bar</li>
-    </ul>
-    <p>See also: <a href="/dismissed-vs-discharged.html">Dismissed vs. discharged -- what it means for refiling</a></p>
+    <h2>Step-by-Step Manual Check</h2>
+    <ol>
+      <li><strong>Check 109(g):</strong> Was your prior case dismissed for willful failure to obey court orders, or voluntarily after a stay relief motion? If yes, you cannot file for 180 days from dismissal. <a href="https://109g.org/calculator.html">109g.org calculator</a></li>
+      <li><strong>Check discharge bars:</strong> Was a discharge entered? If yes, look up the applicable bar from the chart above. <a href="https://1328f.com/check.html">1328f.com screener</a></li>
+      <li><strong>Check stay limits:</strong> Was a case dismissed within the past year? If yes, the stay will be limited (362(c)(3)) or absent (362(c)(4)). <a href="https://automaticstay.org">automaticstay.org</a></li>
+      <li><strong>If no bars apply:</strong> You can file and receive a discharge immediately (subject to completing all requirements of the new case).</li>
+    </ol>
   </div>
 
   <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;max-width:700px;margin:2rem auto">
     <p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Related Resources</p>
-    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://727a8.com" style="color:#58a6ff">727a8.com -- 8-year bar</a></p>
-    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://109g.org" style="color:#58a6ff">109g.org -- 180-day bar</a></p>
-    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://serialfiler.org" style="color:#58a6ff">serialfiler.org -- Serial filer guide</a></p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://1328f.com/check.html" style="color:#58a6ff">1328f.com/check.html -- Full interactive screener</a></p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://109g.org/calculator.html" style="color:#58a6ff">109g.org/calculator.html -- 180-day calculator</a></p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://727a8.com" style="color:#58a6ff">727a8.com -- 8-year bar guide</a></p>
   </div>
 
 </main>
@@ -206,7 +193,7 @@
 </footer>
 
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
-  <p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">91</span> of 37.9 million</p>
+  <p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">0</span> of 37.9 million</p>
   <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p>
   <div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
   <p style="margin-bottom:0.25rem"><span style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>
