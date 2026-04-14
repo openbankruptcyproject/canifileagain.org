@@ -1,17 +1,18 @@
-# Can I File Bankruptcy Again? -- Waiting Periods [2026]
+# Can I File Bankruptcy Again? - Waiting Periods [2026]
 > Can you file bankruptcy again? Waiting periods between filings depend on chapter type. 4, 6, or 8 years. Free 2026 calculator.
 
 ## About
 canifileagain.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- When Can I File Bankruptcy Again? -- Interactive Calculator: https://canifileagain.org/calculator.html
-- Dismissed vs Discharged Bankruptcy -- What It Means for Refiling: https://canifileagain.org/dismissed-vs-discharged.html
-- Can I File Bankruptcy Again? -- Waiting Periods: https://canifileagain.org/
-- Filing Bankruptcy Again -- State Rules and Considerations: https://canifileagain.org/state-rules.html
+- When Can I File Bankruptcy Again? - Interactive Calculator: https://canifileagain.org/calculator.html
+- Dismissed vs Discharged Bankruptcy - What It Means for Refiling: https://canifileagain.org/dismissed-vs-discharged.html
+- Can I File Bankruptcy Again? - Waiting Periods: https://canifileagain.org/
+- Filing Bankruptcy Again - State Rules and Considerations: https://canifileagain.org/state-rules.html
 - Automatic Stay Limits for Repeat Filers: https://canifileagain.org/stay-limits.html
-- Strategic Refiling of Bankruptcy -- When It Makes Sense: https://canifileagain.org/strategic-refiling.html
-- Bankruptcy Waiting Periods Chart -- All Discharge Bars: https://canifileagain.org/waiting-periods.html
+- Strategic Refiling of Bankruptcy - When It Makes Sense: https://canifileagain.org/strategic-refiling.html
+- Bankruptcy Waiting Periods Chart - All Discharge Bars: https://canifileagain.org/waiting-periods.html
+- Privacy Policy: https://canifileagain.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

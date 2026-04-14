@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## When Can I File Bankruptcy Again? -- Interactive Calculator
+## When Can I File Bankruptcy Again? - Interactive Calculator
 Source: https://canifileagain.org/calculator.html
 
 Skip to main content
@@ -25,9 +25,11 @@ Filing Eligibility Calculator
 
 Enter your prior case details to calculate your earliest eligible filing and discharge dates.
 
+Home›Filing Bankruptcy Again›Filing Eligibility Calculator
+
 Eligibility Calculator
 
-Full interactive calculator: Use the comprehensive free screener at 1328f.com/check.html -- it checks all Section 1328(f), 727(a)(8), 727(a)(9), and 109(g) bars automatically.
+Full interactive calculator: Use the comprehensive free screener at 1328f.com/check.html - it checks all Section 1328(f), 727(a)(8), 727(a)(9), and 109(g) bars automatically.
 
 To check your eligibility manually, you need:
 
@@ -75,15 +77,15 @@ Subscribe
 
 Related Resources
 
-1328f.com/check.html -- Full interactive screener
+1328f.com/check.html - Full interactive screener
 
-109g.org/calculator.html -- 180-day calculator
+109g.org/calculator.html - 180-day calculator
 
-727a8.com -- 8-year bar guide
+727a8.com - 8-year bar guide
 
 Related Guides
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -96,13 +98,13 @@ Further Reading & Resources
 Authority sources for deeper research on repeat bankruptcy filings and filing bars:
 
 11 U.S.C. Section 727(a)(8)-(9)
-Cornell LII -- Chapter 7 filing bars
+Cornell LII - Chapter 7 filing bars
 
 11 U.S.C. Section 1328(f)
-Cornell LII -- Chapter 13 filing bars
+Cornell LII - Chapter 13 filing bars
 
 11 U.S.C. Section 109(g)
-Cornell LII -- 180-day bar
+Cornell LII - 180-day bar
 
 Bankruptcy Basics
 USCourts.gov
@@ -193,7 +195,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Dismissed vs Discharged Bankruptcy -- What It Means for Refiling
+## Dismissed vs Discharged Bankruptcy - What It Means for Refiling
 Source: https://canifileagain.org/dismissed-vs-discharged.html
 
 Skip to main content
@@ -208,33 +210,35 @@ Calculator
 State Rules
 Strategic Refiling
 
-Dismissed vs. Discharged -- Impact on Refiling
+Dismissed vs. Discharged - Impact on Refiling
 
 Understanding the difference between dismissed and discharged cases is essential for refiling strategy.
 
-Discharged -- Successful Outcome
+Home›Filing Bankruptcy Again›Dismissed vs. Discharged - Impact on Refiling
+
+Discharged - Successful Outcome
 
 A discharge eliminates your personal liability for covered debts. It is the goal of filing bankruptcy.
 
 Consequences for refiling:
 
-Discharge bars apply -- You must wait the required period before receiving another discharge
+Discharge bars apply - You must wait the required period before receiving another discharge
 
-No stay limits -- The automatic stay is not limited by a prior discharge (only by prior dismissals)
+No stay limits - The automatic stay is not limited by a prior discharge (only by prior dismissals)
 
-Can file anytime -- You can file a new case at any time for the automatic stay, but cannot receive a discharge until the bar period expires
+Can file anytime - You can file a new case at any time for the automatic stay, but cannot receive a discharge until the bar period expires
 
-Dismissed -- Case Terminated, Debts Remain
+Dismissed - Case Terminated, Debts Remain
 
 A dismissal ends the case without eliminating debts. All obligations remain fully enforceable.
 
 Consequences for refiling:
 
-No discharge bar -- Since no discharge was received, discharge bars do not apply
+No discharge bar - Since no discharge was received, discharge bars do not apply
 
-109(g) may apply -- If dismissed for willful failure to obey court orders or after a stay relief motion
+109(g) may apply - If dismissed for willful failure to obey court orders or after a stay relief motion
 
-Stay limits apply -- 362(c)(3): stay limited to 30 days if one dismissal within past year. 362(c)(4): no stay at all if two+ dismissals within past year
+Stay limits apply - 362(c)(3): stay limited to 30 days if one dismissal within past year. 362(c)(4): no stay at all if two+ dismissals within past year
 
 The stay limits are the biggest risk. A dismissed case does not create a discharge bar, but it can severely limit or eliminate the automatic stay in your next filing.
 
@@ -260,7 +264,7 @@ Dismissal preserves discharge eligibility in a future case (no bar is triggered)
 
 But dismissal creates stay risks for future filings within one year
 
-Conversion may be better -- converting from Chapter 13 to Chapter 7 (or vice versa) keeps the case open and avoids the stay limits
+Conversion may be better - converting from Chapter 13 to Chapter 7 (or vice versa) keeps the case open and avoids the stay limits
 
 See also: Strategic refiling | All waiting periods
 
@@ -272,13 +276,13 @@ Subscribe
 
 Related Resources
 
-dischargebar.org -- Discharge bar details
+dischargebar.org - Discharge bar details
 
-109g.org -- 180-day filing bar
+109g.org - 180-day filing bar
 
 Related Guides
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -291,13 +295,13 @@ Further Reading & Resources
 Authority sources for deeper research on repeat bankruptcy filings and filing bars:
 
 11 U.S.C. Section 727(a)(8)-(9)
-Cornell LII -- Chapter 7 filing bars
+Cornell LII - Chapter 7 filing bars
 
 11 U.S.C. Section 1328(f)
-Cornell LII -- Chapter 13 filing bars
+Cornell LII - Chapter 13 filing bars
 
 11 U.S.C. Section 109(g)
-Cornell LII -- 180-day bar
+Cornell LII - 180-day bar
 
 Bankruptcy Basics
 USCourts.gov
@@ -388,7 +392,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Can I File Bankruptcy Again? -- Waiting Periods [2026]
+## Can I File Bankruptcy Again? - Waiting Periods [2026]
 Source: https://canifileagain.org/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -405,7 +409,7 @@ Calculator
 State Rules
 Strategic
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Can I File Bankruptcy Again?
 
@@ -417,9 +421,9 @@ Yes, you can file bankruptcy again, but waiting periods apply. Chapter 7 after C
 
 Can You File Bankruptcy Again?
 
-Yes -- but when and how depends on your prior case. The Bankruptcy Code imposes different waiting periods depending on which chapter you filed, which chapter you want to file now, and how your prior case ended. If you need to start the process, see our step-by-step filing guide. Repeat filers should also consider tax debt in repeat filings, as unpaid taxes may survive discharge.
+Yes - but when and how depends on your prior case. The Bankruptcy Code imposes different waiting periods depending on which chapter you filed, which chapter you want to file now, and how your prior case ended. If you need to start the process, see our step-by-step filing guide. Repeat filers should also consider tax debt in repeat filings, as unpaid taxes may survive discharge.
 
-Discharge Bars -- Waiting Periods
+Discharge Bars - Waiting Periods
 
 Prior CaseNew CaseWaitStatute
 
@@ -437,7 +441,7 @@ Key: Measured from filing date to filing date. Prior discharge must have been re
 
 Filing Bars
 
-Section 109(g) -- 180-Day Bar
+Section 109(g) - 180-Day Bar
 
 Applies if prior case dismissed for willful failure to obey court orders, or voluntarily dismissed after a stay relief motion. The dismissal rate by district varies widely and may affect how courts view your refiling.
 
@@ -445,11 +449,11 @@ Full guide at 109g.org →
 
 Automatic Stay Limits
 
-362(c)(3) -- One Prior Dismissal
+362(c)(3) - One Prior Dismissal
 
 The automatic stay protection in bankruptcy terminates after 30 days unless court extends it.
 
-362(c)(4) -- Two+ Prior Dismissals
+362(c)(4) - Two+ Prior Dismissals
 
 No stay takes effect without court order.
 
@@ -468,15 +472,15 @@ Subscribe
 
 Related Resources
 
-Section 727(a)(8) eight-year discharge bar -- 8-year bar between Chapter 7 discharges
+Section 727(a)(8) eight-year discharge bar - 8-year bar between Chapter 7 discharges
 
-Section 109(g) filing bars -- 180-day filing bar
+Section 109(g) filing bars - 180-day filing bar
 
-1328f.com -- Free discharge screener
+1328f.com - Free discharge screener
 
 Related Guides
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -489,13 +493,13 @@ Further Reading & Resources
 Authority sources for deeper research on repeat bankruptcy filings and filing bars:
 
 11 U.S.C. Section 727(a)(8)-(9)
-Cornell LII -- Chapter 7 filing bars
+Cornell LII - Chapter 7 filing bars
 
 11 U.S.C. Section 1328(f)
-Cornell LII -- Chapter 13 filing bars
+Cornell LII - Chapter 13 filing bars
 
 11 U.S.C. Section 109(g)
-Cornell LII -- 180-day bar
+Cornell LII - 180-day bar
 
 Bankruptcy Basics
 USCourts.gov
@@ -537,7 +541,7 @@ Complete guide to the 8-year Chapter 7 discharge bar
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Can I Keep My Car?
 
@@ -687,10 +691,13 @@ garnishedwages.org
 howtofilebankruptcy.org
 ♥ Sponsor
 GitHub
+Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
 
 Privacy | Terms | Open Bankruptcy Project
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -712,7 +719,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Filing Bankruptcy Again -- State Rules and Considerations
+## Filing Bankruptcy Again - State Rules and Considerations
 Source: https://canifileagain.org/state-rules.html
 
 Skip to main content
@@ -731,9 +738,11 @@ State Rules for Refiling Bankruptcy
 
 Federal discharge bars are the same everywhere, but state exemption rules may affect your refiling strategy.
 
+Home›Filing Bankruptcy Again›State Rules for Refiling Bankruptcy
+
 Federal Rules Are Uniform
 
-The discharge bars -- 727(a)(8), 727(a)(9), 1328(f)(1), 1328(f)(2) -- are federal law and apply the same in every state. The 180-day filing bar under 109(g) is also federal. No state can change these waiting periods.
+The discharge bars - 727(a)(8), 727(a)(9), 1328(f)(1), 1328(f)(2) - are federal law and apply the same in every state. The 180-day filing bar under 109(g) is also federal. No state can change these waiting periods.
 
 However, state law affects other aspects of your bankruptcy that may influence when and how to file again.
 
@@ -761,7 +770,7 @@ The Homestead Cap for Recent Movers
 
 Section 522(p) caps the homestead exemption at $189,050 (adjusted periodically) if the debtor acquired the homestead within the 1,215 days (approximately 3.3 years) before filing and cannot trace the equity to a prior home in the same state.
 
-This prevents "exemption planning" -- buying an expensive home in a state with unlimited homestead exemption shortly before filing bankruptcy.
+This prevents "exemption planning" - buying an expensive home in a state with unlimited homestead exemption shortly before filing bankruptcy.
 
 Related: Strategic refiling considerations | All waiting periods
 
@@ -773,13 +782,13 @@ Subscribe
 
 Related Resources
 
-dischargebar.org -- Discharge bar details
+dischargebar.org - Discharge bar details
 
-1328f.com -- Free screener
+1328f.com - Free screener
 
 Related Guides
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -792,13 +801,13 @@ Further Reading & Resources
 Authority sources for deeper research on repeat bankruptcy filings and filing bars:
 
 11 U.S.C. Section 727(a)(8)-(9)
-Cornell LII -- Chapter 7 filing bars
+Cornell LII - Chapter 7 filing bars
 
 11 U.S.C. Section 1328(f)
-Cornell LII -- Chapter 13 filing bars
+Cornell LII - Chapter 13 filing bars
 
 11 U.S.C. Section 109(g)
-Cornell LII -- 180-day bar
+Cornell LII - 180-day bar
 
 Bankruptcy Basics
 USCourts.gov
@@ -900,17 +909,19 @@ Can I File Bankruptcy Again?
 
 Free tool to check if you can file bankruptcy again. Discharge bars, waiting periods, and prior filing restrictions explained.
 
-One Prior Dismissal -- 30-Day Stay
+Home›Filing Bankruptcy Again›Can I File Bankruptcy Again?
+
+One Prior Dismissal - 30-Day Stay
 
 Section 362(c)(3): If you had a case pending and dismissed within the year before your new filing, the automatic stay expires after 30 days unless you file a motion to extend it. You must show the new filing is in good faith.
 
-Two or More Prior Dismissals -- No Stay
+Two or More Prior Dismissals - No Stay
 
 Section 362(c)(4): If you had two or more cases pending and dismissed within the year before filing, you get NO automatic stay at all. You must file a motion and prove good faith to get any stay protection. Until the court grants your motion, creditors can continue collection.
 
 How to Extend the Stay
 
-File a motion to extend or impose the stay before it expires (within 30 days for 362(c)(3), or as soon as possible for 362(c)(4)). Demonstrate that the new case is filed in good faith -- changed circumstances, ability to complete the plan, specific reason prior case was dismissed. Full serial filing guide.
+File a motion to extend or impose the stay before it expires (within 30 days for 362(c)(3), or as soon as possible for 362(c)(4)). Demonstrate that the new case is filed in good faith - changed circumstances, ability to complete the plan, specific reason prior case was dismissed. Full serial filing guide.
 
 Check your eligibility
 
@@ -918,7 +929,7 @@ Free Discharge Screener
 
 Related Guides
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -931,13 +942,13 @@ Further Reading & Resources
 Authority sources for deeper research on repeat bankruptcy filings and filing bars:
 
 11 U.S.C. Section 727(a)(8)-(9)
-Cornell LII -- Chapter 7 filing bars
+Cornell LII - Chapter 7 filing bars
 
 11 U.S.C. Section 1328(f)
-Cornell LII -- Chapter 13 filing bars
+Cornell LII - Chapter 13 filing bars
 
 11 U.S.C. Section 109(g)
-Cornell LII -- 180-day bar
+Cornell LII - 180-day bar
 
 Bankruptcy Basics
 USCourts.gov
@@ -1017,7 +1028,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Strategic Refiling of Bankruptcy -- When It Makes Sense
+## Strategic Refiling of Bankruptcy - When It Makes Sense
 Source: https://canifileagain.org/strategic-refiling.html
 
 Skip to main content
@@ -1032,23 +1043,25 @@ Calculator
 State Rules
 Strategic Refiling
 
-Strategic Refiling -- When It Makes Sense
+Strategic Refiling - When It Makes Sense
 
 Refiling bankruptcy is not always a sign of failure. Changed circumstances, a different chapter, or strategic timing can make a new filing the right choice.
+
+Home›Filing Bankruptcy Again›Strategic Refiling - When It Makes Sense
 
 Changed Circumstances
 
 Life does not stop after a bankruptcy discharge. Legitimate reasons to refile include:
 
-New debts -- Medical bills, job loss, business failure after prior discharge
+New debts - Medical bills, job loss, business failure after prior discharge
 
-Income changes -- Reduced income may now qualify you for Chapter 7 when you previously had to file Chapter 13
+Income changes - Reduced income may now qualify you for Chapter 7 when you previously had to file Chapter 13
 
-Divorce -- Separation of finances may create new debt obligations
+Divorce - Separation of finances may create new debt obligations
 
-Foreclosure or repossession threat -- Need the automatic stay to protect property
+Foreclosure or repossession threat - Need the automatic stay to protect property
 
-Lawsuit or judgment -- New creditor actions require protection
+Lawsuit or judgment - New creditor actions require protection
 
 Chapter Switching Strategy
 
@@ -1058,7 +1071,7 @@ Common when the debtor needs to address secured debts (mortgages, car loans) tha
 
 Chapter 7 After Chapter 13 Dismissal
 
-If your Chapter 13 plan failed, Chapter 7 may provide faster relief -- if you qualify under the means test. No discharge bar applies because the prior case was dismissed, not discharged.
+If your Chapter 13 plan failed, Chapter 7 may provide faster relief - if you qualify under the means test. No discharge bar applies because the prior case was dismissed, not discharged.
 
 Key advantage: If your prior case was dismissed (not discharged), there is no discharge bar for the new case. You can receive a discharge immediately.
 
@@ -1096,15 +1109,15 @@ Subscribe
 
 Related Resources
 
-dischargebar.org -- Discharge bars
+dischargebar.org - Discharge bars
 
-serialfiler.org -- Serial filer guide
+serialfiler.org - Serial filer guide
 
-727a8.com -- 8-year bar
+727a8.com - 8-year bar
 
 Related Guides
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1117,13 +1130,13 @@ Further Reading & Resources
 Authority sources for deeper research on repeat bankruptcy filings and filing bars:
 
 11 U.S.C. Section 727(a)(8)-(9)
-Cornell LII -- Chapter 7 filing bars
+Cornell LII - Chapter 7 filing bars
 
 11 U.S.C. Section 1328(f)
-Cornell LII -- Chapter 13 filing bars
+Cornell LII - Chapter 13 filing bars
 
 11 U.S.C. Section 109(g)
-Cornell LII -- 180-day bar
+Cornell LII - 180-day bar
 
 Bankruptcy Basics
 USCourts.gov
@@ -1214,7 +1227,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Bankruptcy Waiting Periods Chart -- All Discharge Bars
+## Bankruptcy Waiting Periods Chart - All Discharge Bars
 Source: https://canifileagain.org/waiting-periods.html
 
 Skip to main content
@@ -1229,11 +1242,13 @@ Calculator
 State Rules
 Strategic Refiling
 
-Bankruptcy Waiting Periods -- Complete Chart
+Bankruptcy Waiting Periods - Complete Chart
 
 Every waiting period that affects repeat filers. Filing bars, discharge bars, and automatic stay limits.
 
-Discharge Bars -- Master Chart
+Home›Filing Bankruptcy Again›Bankruptcy Waiting Periods - Complete Chart
+
+Discharge Bars - Master Chart
 
 Prior CaseNew CaseWaiting PeriodStatute
 
@@ -1247,7 +1262,7 @@ Chapter 13Chapter 132 years1328(f)(2)
 
 Chapter 12Chapter 76 years*727(a)(9)
 
-Chapter 11Chapter 7None (disputed)727(a)(8) -- "under this chapter"
+Chapter 11Chapter 7None (disputed)727(a)(8) - "under this chapter"
 
 * The 6-year bar does not apply if the prior Ch.13 paid unsecured creditors 100%, or paid at least 70% and the plan was proposed in good faith with best effort.
 
@@ -1255,7 +1270,7 @@ Key rule: All bars are measured from filing date to filing date. The prior case 
 
 Filing Bars
 
-Section 109(g) -- 180-Day Bar
+Section 109(g) - 180-Day Bar
 
 You cannot file at all for 180 days if:
 
@@ -1269,13 +1284,13 @@ Full guide: 109g.org
 
 Automatic Stay Limits for Repeat Filers
 
-Section 362(c)(3) -- One Prior Dismissal in Past Year
+Section 362(c)(3) - One Prior Dismissal in Past Year
 
 If you had one case pending and dismissed within the past year, the automatic stay in your new case automatically terminates after 30 days unless the court extends it.
 
 To extend: file a motion before the 30 days expire. You must show the new filing is in good faith.
 
-Section 362(c)(4) -- Two+ Prior Dismissals in Past Year
+Section 362(c)(4) - Two+ Prior Dismissals in Past Year
 
 If you had two or more cases pending and dismissed within the past year, no automatic stay takes effect at all unless the court orders it.
 
@@ -1287,13 +1302,13 @@ Check Your Dates
 
 Use these free tools to calculate your earliest eligible filing and discharge dates:
 
-1328f.com discharge screener -- Checks all Section 1328(f) and 727(a)(8)/(9) bars
+1328f.com discharge screener - Checks all Section 1328(f) and 727(a)(8)/(9) bars
 
-109g.org calculator -- 180-day filing bar calculator
+109g.org calculator - 180-day filing bar calculator
 
-727a8.com -- 8-year Chapter 7 discharge bar
+727a8.com - 8-year Chapter 7 discharge bar
 
-See also: Dismissed vs. discharged -- what it means for refiling
+See also: Dismissed vs. discharged - what it means for refiling
 
 Stay updated on new datasets and research findings
 
@@ -1303,15 +1318,15 @@ Subscribe
 
 Related Resources
 
-727a8.com -- 8-year bar
+727a8.com - 8-year bar
 
-109g.org -- 180-day bar
+109g.org - 180-day bar
 
-serialfiler.org -- Serial filer guide
+serialfiler.org - Serial filer guide
 
 Related Guides
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1324,13 +1339,13 @@ Further Reading & Resources
 Authority sources for deeper research on repeat bankruptcy filings and filing bars:
 
 11 U.S.C. Section 727(a)(8)-(9)
-Cornell LII -- Chapter 7 filing bars
+Cornell LII - Chapter 7 filing bars
 
 11 U.S.C. Section 1328(f)
-Cornell LII -- Chapter 13 filing bars
+Cornell LII - Chapter 13 filing bars
 
 11 U.S.C. Section 109(g)
-Cornell LII -- 180-day bar
+Cornell LII - 180-day bar
 
 Bankruptcy Basics
 USCourts.gov
@@ -1418,3 +1433,75 @@ This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptc
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Privacy Policy - canifileagain.org
+Source: https://canifileagain.org/privacy.html
+
+canifileagain.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
