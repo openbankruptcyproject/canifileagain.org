@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://canifileagain.org/sitemap.xml
+
+Sitemap: https://canifileagain.org/sitemapindex.xml
