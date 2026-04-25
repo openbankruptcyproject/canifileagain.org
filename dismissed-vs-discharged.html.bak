@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<!-- BTN:GA4:START -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);
+  gtag('config', 'G-FTWLM223G7');
+  gtag('config', 'G-053Z64N82F');
+</script>
+<!-- BTN:GA4:END -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<title>Dismissed vs Discharged Bankruptcy - What It Means for Refiling</title>
+<meta name="description" content="Learn about dismissed vs discharged bankruptcy - what it means for refiling | canifileagain.org in our free 2026 guide.">
+<meta name="keywords" content="dismissed vs discharged, bankruptcy, refiling, difference, discharge bar, 109(g), filing bar">
+<link rel="canonical" href="https://canifileagain.org/dismissed-vs-discharged.html">
+<link rel="alternate" hreflang="en" href="https://canifileagain.org/dismissed-vs-discharged.html">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<meta name="theme-color" content="#0d1117">
+<meta name="last-modified" content="2026-03-28">
+
+<meta property="og:title" content="Dismissed vs Discharged Bankruptcy - What It Means for Refiling">
+<meta property="og:description" content="Learn about dismissed vs discharged bankruptcy - what it means for refiling | canifileagain.org in our free 2026 guide.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://canifileagain.org/dismissed-vs-discharged.html">
+<meta property="og:site_name" content="canifileagain.org">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Dismissed vs Discharged Bankruptcy - What It Means for Refiling">
+<meta name="twitter:description" content="Learn about dismissed vs discharged bankruptcy - what it means for refiling | canifileagain.org in our free 2026 guide.">
+<meta property="og:image" content="https://canifileagain.org/og-image.svg">
+<meta name="twitter:image" content="https://canifileagain.org/og-image.svg">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NonprofitOrganization",
+  "name": "Open Bankruptcy Project",
+  "url": "https://canifileagain.org",
+  "description": "Free, open-source bankruptcy information. Real information, no strings.",
+  "nonprofitStatus": "https://schema.org/Nonprofit501c3"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org", "@type": "FAQPage",
+  "mainEntity": [
+    {"@type": "Question", "name": "What is the difference between dismissed and discharged?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Discharged means debts were eliminated - a successful outcome. Dismissed means the case was terminated without eliminating any debts. The distinction determines which refiling rules apply."}},
+    {"@type": "Question", "name": "Does a dismissed case trigger the waiting period?",
+     "acceptedAnswer": {"@type": "Answer", "text": "No. Discharge bars only apply when the prior case resulted in a discharge. But a dismissed case may trigger the 109(g) 180-day filing bar and automatic stay limits under 362(c)(3)/(c)(4)."}},
+    {"@type": "Question", "name": "Can I refile immediately after a dismissal?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Sometimes. If the dismissal was not for willful failure to obey court orders and no stay relief motion was pending, there is no 109(g) bar. But you may face limited or no automatic stay if the dismissal was within the past year."}}
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Dismissed vs. Discharged - Impact on Refiling",
+      "description": "The critical difference between dismissed and discharged bankruptcy cases for refiling purposes. Discharge bars vs 109(g) filing bars.",
+      "author": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project",
+        "url": "https://1328f.org"
+      },
+      "datePublished": "2026-03-28",
+      "dateModified": "2026-03-29",
+      "mainEntityOfPage": "https://canifileagain.org/dismissed-vs-discharged.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://canifileagain.org"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Filing Bankruptcy Again",
+          "item": "https://canifileagain.org"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Dismissed vs. Discharged - Impact on Refiling",
+          "item": "https://canifileagain.org/dismissed-vs-discharged.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "name": "Dismissed vs. Discharged - Impact on Refiling",
+      "url": "https://canifileagain.org/dismissed-vs-discharged.html",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".quick-answer",
+          "h1",
+          ".summary",
+          "p:first-of-type"
+        ]
+      }
+    }
+  ]
+}
+</script>
+
+<style>
+  :root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149; --yellow: #e3a835; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+  a { color: var(--accent); text-decoration: none; } a:hover { text-decoration: underline; }
+  a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .skip-link { position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; z-index: 9999; padding: 1rem; background: #238636; color: #fff; font-weight: 600; text-decoration: none; }
+  .skip-link:focus { position: fixed; top: 10px; left: 10px; width: auto; height: auto; overflow: visible; }
+  nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
+  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
+  nav .site-name:hover { text-decoration: none; color: var(--accent); }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; } .nav-links a:hover { color: var(--accent); text-decoration: none; }
+  .nav-links a.active { color: var(--accent); font-weight: 600; }
+  .hamburger { display: none; background: none; border: none; color: var(--text); font-size: 1.5rem; cursor: pointer; padding: 0.25rem; }
+  header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 3rem 2rem; text-align: center; }
+  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.75rem; } header h1 .accent { color: var(--accent); }
+  header .subtitle { color: var(--text-muted); font-size: 1.05rem; max-width: 700px; margin: 0 auto; }
+  main { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem; }
+  .content-section { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 2rem; margin-bottom: 1.5rem; }
+  .content-section h2 { color: #f0f6fc; font-size: 1.3rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+  .content-section h3 { color: #f0f6fc; font-size: 1.1rem; margin: 1.5rem 0 0.75rem; }
+  .content-section p { color: var(--text); margin-bottom: 0.75rem; font-size: 0.95rem; }
+  .content-section ul, .content-section ol { margin: 0.75rem 0 0.75rem 1.5rem; color: var(--text); font-size: 0.95rem; }
+  .content-section li { margin-bottom: 0.4rem; }
+  .statute-box { background: #21262d; border-left: 3px solid var(--accent); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .statute-box p { margin-bottom: 0.5rem; } .statute-box p:last-child { margin-bottom: 0; }
+  .warning-box { background: #21262d; border-left: 3px solid var(--red); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .warning-box p { margin-bottom: 0.5rem; } .warning-box p:last-child { margin-bottom: 0; }
+  .yellow-box { background: #21262d; border-left: 3px solid var(--yellow); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .yellow-box p { margin-bottom: 0.5rem; } .yellow-box p:last-child { margin-bottom: 0; }
+  .green-box { background: #21262d; border-left: 3px solid var(--green); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .green-box p { margin-bottom: 0.5rem; } .green-box p:last-child { margin-bottom: 0; }
+  .content-section table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
+  .content-section th, .content-section td { padding: 0.6rem 0.75rem; text-align: left; border-bottom: 1px solid var(--border); }
+  .content-section th { color: var(--text-muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
+  .network-footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; }
+  .network-footer p { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
+  .network-footer .links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 0.75rem; }
+  .network-footer .links a { color: var(--text-muted); font-size: 0.85rem; } .network-footer .links a:hover { color: var(--accent); }
+  .network-footer .disclaimer { margin-top: 1rem; font-size: 0.75rem; color: var(--text-muted); }
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.5rem; } main { padding: 1.5rem 1rem; } .content-section { padding: 1.25rem; }
+    nav { padding: 0.75rem 1rem; } .hamburger { display: block; }
+    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
+    .nav-links.open { display: flex; }
+    .content-section table { font-size: 0.8rem; } .content-section th, .content-section td { padding: 0.5rem; }
+  }
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+
+<link rel="alternate" hreflang="es" href="https://canifileagain.org/dismissed-vs-discharged-es.html">
+</head>
+<body>
+
+<a href="#main-content" class="skip-link">Skip to main content</a>
+
+<nav role="navigation" aria-label="Site navigation">
+  <a href="/" class="site-name">canifileagain.org</a>
+  <button class="hamburger" aria-label="Toggle navigation menu" aria-expanded="false" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">&#9776;</button>
+  <div class="nav-links">
+    <a href="/">Home</a>
+    <a href="/waiting-periods.html">Waiting Periods</a>
+    <a href="/dismissed-vs-discharged.html" class="active">Dismissed vs Discharged</a>
+    <a href="/calculator.html">Calculator</a>
+    <a href="/state-rules.html">State Rules</a>
+    <a href="/strategic-refiling.html">Strategic Refiling</a>
+  </div>
+</nav>
+
+<header>
+  <h1>Dismissed vs. Discharged - Impact on Refiling</h1>
+  <p class="subtitle">Understanding the difference between dismissed and discharged cases is essential for refiling strategy.</p>
+</header>
+
+<main id="main-content">
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://canifileagain.org">Filing Bankruptcy Again</a><span class="separator">&rsaquo;</span><span>Dismissed vs. Discharged - Impact on Refiling</span></nav>
+
+
+  <div class="content-section">
+    <h2>Discharged - Successful Outcome</h2>
+    <p>A <strong><a href="https://bankruptcydischarge.org/" title="discharge">discharge</a></strong> eliminates your personal liability for covered debts. It is the goal of filing bankruptcy.</p>
+    <p>Consequences for refiling:</p>
+    <ul>
+      <li><strong><a href="https://bankruptcydischarge.org/" title="discharge">Discharge</a> bars apply</strong> - You must wait the required period before receiving another discharge</li>
+      <li><strong>No stay limits</strong> - The <a href="https://automaticstay.org" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay</a> is not limited by a prior discharge (only by prior dismissals)</li>
+      <li><strong>Can file anytime</strong> - You can file a new case at any time for the <a href="https://automaticstay.org" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay</a>, but cannot receive a discharge until the bar period expires</li>
+    </ul>
+  </div>
+
+  <div class="content-section">
+    <h2>Dismissed - Case Terminated, Debts Remain</h2>
+    <p>A <strong><a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a></strong> ends the case without eliminating debts. All obligations remain fully enforceable.</p>
+    <p>Consequences for refiling:</p>
+    <ul>
+      <li><strong>No <a href="https://dischargebar.org/" title="discharge bar">discharge bar</a></strong> - Since no discharge was received, discharge bars do not apply</li>
+      <li><strong><a href="https://109g.org/" title="Section 109(g)">109(g)</a> may apply</strong> - If dismissed for willful failure to obey court orders or after a stay relief motion</li>
+      <li><strong>Stay limits apply</strong> - 362(c)(3): stay limited to 30 days if one <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> within past year. 362(c)(4): no stay at all if two+ dismissals within past year</li>
+    </ul>
+    <div class="warning-box"><p><strong>The stay limits are the biggest risk.</strong> A dismissed case does not create a <a href="https://dischargebar.org" title="Bankruptcy Discharge Bar - Open Bankruptcy Project" target="_blank" rel="noopener">discharge bar</a>, but it can severely limit or eliminate the <a href="https://automaticstay.org" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay</a> in your next filing.</p></div>
+  </div>
+
+  <div class="content-section">
+    <h2>Common Reasons for Dismissal</h2>
+    <ul>
+      <li>Failure to file required documents within 14 days</li>
+      <li>Failure to complete <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a> before filing</li>
+      <li>Failure to make <a href="https://chapter13plan.org" title="Chapter 13 Repayment Plan - Open Bankruptcy Project" target="_blank" rel="noopener">Chapter 13 plan</a> payments</li>
+      <li>Failure to appear at the <a href="https://341meeting.org" title="341 Meeting of Creditors - Open Bankruptcy Project" target="_blank" rel="noopener">341 meeting</a></li>
+      <li>Failure to pass the <a href="https://meanstest.org" title="Bankruptcy Means Test - Open Bankruptcy Project" target="_blank" rel="noopener">means test</a> (<a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>)</li>
+      <li>Voluntary dismissal by the debtor</li>
+    </ul>
+  </div>
+
+  <div class="content-section">
+    <h2>Strategic Considerations</h2>
+    <p>If you are deciding whether to request dismissal or let your case continue:</p>
+    <ul>
+      <li><strong>Dismissal preserves discharge eligibility</strong> in a future case (no bar is triggered)</li>
+      <li><strong>But dismissal creates stay risks</strong> for future filings within one year</li>
+      <li><strong>Conversion may be better</strong> - converting from <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> to <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> (or vice versa) keeps the case open and avoids the stay limits</li>
+    </ul>
+    <p>See also: <a href="/strategic-refiling.html">Strategic refiling</a> | <a href="/waiting-periods.html">All waiting periods</a></p>
+  </div>
+
+  <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
+  <p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:1rem">No spam. No marketing. Just data.</p>
+  <form action="https://formspree.io/f/xkoqeyzw" method="POST" style="display:flex;gap:0.5rem;justify-content:center;flex-wrap:wrap">
+    <input type="email" name="email" placeholder="your@email.com" required style="padding:0.5rem 1rem;border-radius:6px;border:1px solid #30363d;background:#0d1117;color:#f0f6fc;font-size:0.9rem;min-width:250px">
+    <input type="hidden" name="_subject" value="BTN Research Subscriber">
+    <button type="submit" style="padding:0.5rem 1.5rem;border-radius:6px;border:none;background:#238636;color:#fff;font-weight:600;font-size:0.9rem;cursor:pointer">Subscribe</button>
+  </form>
+</div>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;max-width:700px;margin:2rem auto">
+    <p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Related Resources</p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://dischargebar.org" style="color:#58a6ff">dischargebar.org - Discharge bar details</a></p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://109g.org" style="color:#58a6ff">109g.org - 180-day filing bar</a></p>
+  </div>
+
+
+<!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
+<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+  <p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
+  <ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+  <li><a href="https://bankruptcydismissed.org" style="color:#58a6ff;text-decoration:none">Bankruptcy Dismissed - What Now?</a></li>
+  <li><a href="https://filebankruptcyagain.org" style="color:#58a6ff;text-decoration:none">File Bankruptcy Again Guide</a></li>
+  <li><a href="https://bankruptcyhardship.org" style="color:#58a6ff;text-decoration:none">Bankruptcy Hardship Discharge</a></li>
+  <li><a href="https://canifilebankruptcytwice.com" style="color:#58a6ff;text-decoration:none">Filing Bankruptcy Twice</a></li>
+  </ul>
+</div>
+
+</main>
+
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
+  <p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on repeat bankruptcy filings and filing bars:</p>
+  <ul style="list-style:none;padding:0;margin:0">
+    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/727" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 727(a)(8)-(9)</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII - Chapter 7 filing bars</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/1328" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 1328(f)</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII - Chapter 13 filing bars</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/109" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 109(g)</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII - 180-day bar</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.uscourts.gov/services-forms/bankruptcy/bankruptcy-basics" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Bankruptcy Basics</a><br><span style="color:#7d8590;font-size:0.8rem">USCourts.gov</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://1328f.com" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">1328(f) Screening Tool</a><br><span style="color:#7d8590;font-size:0.8rem">Open Bankruptcy Project screener</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.lawhelp.org/" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Find Free Legal Aid</a><br><span style="color:#7d8590;font-size:0.8rem">LSC legal aid finder</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://scholar.google.com/scholar?q=%22serial+filer%22+%22repeat+filing%22+bankruptcy" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Serial Filing Research</a><br><span style="color:#7d8590;font-size:0.8rem">Google Scholar</span></li>
+  </ul>
+</div>
+<!-- RELATED GUIDES - injected by inject_related_guides.py -->
+<div id="related-guides" style="max-width:900px;margin:2.5rem auto;padding:0 1rem">
+  <p style="color:#f0f6fc;font-weight:700;font-size:1.2rem;margin:0 0 1rem 0;text-align:center">Related Guides</p>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+    <a href="https://filebankruptcyagain.com?utm_source=canifileagain.org&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">File Bankruptcy Again</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free bankruptcy information guide</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">filebankruptcyagain.com &rarr;</p>
+    </a>
+    <a href="https://109g.org?utm_source=canifileagain.org&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Section 109(g) Filing Restrictions</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">180-day filing restriction under Section 109(g)</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">109g.org &rarr;</p>
+    </a>
+    <a href="https://1328f.com?utm_source=canifileagain.org&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Discharge Eligibility Screener</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free screener tool to check if you can file again</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">1328f.com &rarr;</p>
+    </a>
+    <a href="https://727a8.com?utm_source=canifileagain.org&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Chapter 7 Discharge Time Bar Guide</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Complete guide to the 8-year Chapter 7 discharge bar</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">727a8.com &rarr;</p>
+    </a>
+  </div>
+</div>
+<style>
+.related-card:hover {border-color:#58a6ff !important;transform:translateY(-2px)}
+</style>
+<!-- /RELATED GUIDES -->
+
+<!-- BOOST-TOP10 internal links (boost_internal_links.py) -->
+<div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
+  <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
+  <ul style="list-style:none;padding:0;margin:0">
+    <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=canifileagain.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=canifileagain.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://727a8.com/?utm_source=canifileagain.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Section 727(a)(8) Discharge Waiting Period</a> <span style="color:#7d8590;font-size:0.8rem">-- 727a8.com</span></li>
+  </ul>
+</div>
+<!-- BTN:FOOTER:START -->
+<footer class="network-footer" role="contentinfo">
+  <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+
+  <p><strong>Part of the Bankruptcy Transparency Network</strong></p>
+  <p>A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit</p>
+  <p>Real information, no strings.</p>
+  <div class="links">
+    <a href="https://automaticstay.org?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network">automaticstay.org</a>
+    <a href="https://meanstest.org?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network">meanstest.org</a>
+    <a href="https://341meeting.org?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network">341meeting.org</a>
+    <a href="https://523a.org?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network">523a.org</a>
+    <a href="https://109g.org?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network">109g.org</a>
+    <a href="https://727a8.com?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network">727a8.com</a>
+    <a href="https://prosedebtors.org?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network">prosedebtors.org</a>
+    <a href="https://howtofilebankruptcy.org?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network">howtofilebankruptcy.org</a>
+    <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a>
+    <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
+  </div>
+  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.</p>
+  <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
+</footer>
+<!-- BTN:FOOTER:END -->
+
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
+  <p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">0</span> of 37.9 million</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p>
+  <div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
+  <p style="margin-bottom:0.25rem"><span style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>
+  <p style="color:#9eaab6;font-size:0.8rem;margin-bottom:0.75rem">1,500+ hours. No grants, no institutional backing. 0 supporters so far.</p>
+  <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a>
+</div>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:700px;margin:2rem auto">
+<p style="color:#9eaab6;font-size:0.8rem;text-transform:uppercase;letter-spacing:0.05em;margin-bottom:0.25rem">Federal Rules Committee</p>
+<p style="color:#e6edf3;font-size:0.95rem;margin-bottom:0.25rem">This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: <a href="https://www.uscourts.gov/forms-rules/records-rules-committees/suggestions/dan-brown-26-bk-3" style="color:#58a6ff">Suggestion 26-BK-3</a> and <a href="https://www.uscourts.gov/forms-rules/records-rules-committees/suggestions/dan-brown-26-bk-5" style="color:#58a6ff">Suggestion 26-BK-5</a></p>
+<p style="color:#9eaab6;font-size:0.8rem;margin:0">Proposing automated <a href="https://section1328.org" title="Section 1328 Discharge - Open Bankruptcy Project" target="_blank" rel="noopener">Section 1328</a>(f) <a href="https://dischargebar.org" title="Bankruptcy Discharge Bar - Open Bankruptcy Project" target="_blank" rel="noopener">discharge bar</a> screening and <a href="https://openbankruptcyproject.org/rule-9037/" title="Rule 9037 SSN Redaction - Open Bankruptcy Project" target="_blank" rel="noopener">Rule 9037</a> SSN redaction in federal bankruptcy courts</p>
+</div>
+
+<script src="/btn-engage.js" defer></script>
+<script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString();var b=document.getElementById("recap-bar");if(b&&d.count)b.style.width=Math.min(100,d.count/37900000*100).toFixed(4)+"%";var dn=document.getElementById("recap-donated");if(dn&&d.donated!==undefined)dn.textContent="$"+d.donated.toLocaleString()}).catch(function(){})</script>
+<div style="text-align:center;padding:16px;color:#8b949e;font-size:0.8rem;border-top:1px solid #30363d;margin-top:20px"><p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p></div>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
+</body>
+</html>

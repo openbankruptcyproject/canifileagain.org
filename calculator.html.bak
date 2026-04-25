@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<!-- BTN:GA4:START -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);
+  gtag('config', 'G-FTWLM223G7');
+  gtag('config', 'G-053Z64N82F');
+</script>
+<!-- BTN:GA4:END -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<title>When Can I File Bankruptcy Again? - Interactive Calculator</title>
+<meta name="description" content="Calculate your earliest eligible filing date based on your prior bankruptcy case. Enter your details to check all discharge bars and filing r...">
+<meta name="keywords" content="bankruptcy calculator, when can I file again, earliest filing date, discharge bar calculator, 1328(f), 727(a)(8)">
+<link rel="canonical" href="https://canifileagain.org/calculator.html">
+<link rel="alternate" hreflang="en" href="https://canifileagain.org/calculator.html">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<meta name="theme-color" content="#0d1117">
+<meta name="last-modified" content="2026-03-28">
+
+<meta property="og:title" content="When Can I File Bankruptcy Again? - Interactive Calculator">
+<meta property="og:description" content="Calculate your earliest eligible filing date based on your prior bankruptcy case. Enter your details to check all discharge bars and filing r...">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://canifileagain.org/calculator.html">
+<meta property="og:site_name" content="canifileagain.org">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="When Can I File Bankruptcy Again? - Interactive Calculator">
+<meta name="twitter:description" content="Calculate your earliest eligible filing date based on your prior bankruptcy case. Enter your details to check all discharge bars and filing r...">
+<meta property="og:image" content="https://canifileagain.org/og-image.svg">
+<meta name="twitter:image" content="https://canifileagain.org/og-image.svg">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NonprofitOrganization",
+  "name": "Open Bankruptcy Project",
+  "url": "https://canifileagain.org",
+  "description": "Free, open-source bankruptcy information. Real information, no strings.",
+  "nonprofitStatus": "https://schema.org/Nonprofit501c3"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org", "@type": "FAQPage",
+  "mainEntity": [
+    {"@type": "Question", "name": "How do I calculate when I can file again?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Enter the filing date and chapter of your prior case, how it ended, and the chapter you want to file now. The calculator checks all applicable discharge bars, filing bars, and stay limits."}},
+    {"@type": "Question", "name": "What dates do I need?",
+     "acceptedAnswer": {"@type": "Answer", "text": "The filing date of your prior case and the date of discharge (if any). Both are available from PACER or from your bankruptcy attorney."}},
+    {"@type": "Question", "name": "What if I had multiple prior cases?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Each prior case must be evaluated separately. The most restrictive bar applies. If you had cases dismissed within the past year, stay limits also apply."}}
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Filing Eligibility Calculator",
+      "description": "Calculate your earliest eligible filing date based on your prior bankruptcy case. Enter your details to check all discharge bars and filing restrictions.",
+      "author": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project",
+        "url": "https://1328f.org"
+      },
+      "datePublished": "2026-03-28",
+      "dateModified": "2026-03-29",
+      "mainEntityOfPage": "https://canifileagain.org/calculator.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://canifileagain.org"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Filing Bankruptcy Again",
+          "item": "https://canifileagain.org"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Filing Eligibility Calculator",
+          "item": "https://canifileagain.org/calculator.html"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "name": "Filing Eligibility Calculator",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nWhen Can I File Bankruptcy Again? - Interactive"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Chapter filed (7, 13, 11, or 12)"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "How it ended (discharged, dismissed, or converted)"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Date of discharge (if applicable)"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Chapter you want to file now"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "text": "Check 109(g): Was your prior case dismissed for willful failure to obey court orders, or voluntarily after a stay relief motion? If yes, you cannot file for 180 days from dismissal. 109g.org calculato"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 7,
+          "text": "Check discharge bars: Was a discharge entered? If yes, look up the applicable bar from the chart above. 1328f.com screener"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 8,
+          "text": "Check stay limits: Was a case dismissed within the past year? If yes, the stay will be limited (362(c)(3)) or absent (362(c)(4)). automaticstay.org"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 9,
+          "text": "If no bars apply: You can file and receive a discharge immediately (subject to completing all requirements of the new case)."
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "name": "Filing Eligibility Calculator",
+      "url": "https://canifileagain.org/calculator.html",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".quick-answer",
+          "h1",
+          ".summary",
+          "p:first-of-type"
+        ]
+      }
+    }
+  ]
+}
+</script>
+
+<style>
+  :root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149; --yellow: #e3a835; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+  a { color: var(--accent); text-decoration: none; } a:hover { text-decoration: underline; }
+  a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .skip-link { position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; z-index: 9999; padding: 1rem; background: #238636; color: #fff; font-weight: 600; text-decoration: none; }
+  .skip-link:focus { position: fixed; top: 10px; left: 10px; width: auto; height: auto; overflow: visible; }
+  nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
+  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
+  nav .site-name:hover { text-decoration: none; color: var(--accent); }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; } .nav-links a:hover { color: var(--accent); text-decoration: none; }
+  .nav-links a.active { color: var(--accent); font-weight: 600; }
+  .hamburger { display: none; background: none; border: none; color: var(--text); font-size: 1.5rem; cursor: pointer; padding: 0.25rem; }
+  header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 3rem 2rem; text-align: center; }
+  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.75rem; } header h1 .accent { color: var(--accent); }
+  header .subtitle { color: var(--text-muted); font-size: 1.05rem; max-width: 700px; margin: 0 auto; }
+  main { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem; }
+  .content-section { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 2rem; margin-bottom: 1.5rem; }
+  .content-section h2 { color: #f0f6fc; font-size: 1.3rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+  .content-section h3 { color: #f0f6fc; font-size: 1.1rem; margin: 1.5rem 0 0.75rem; }
+  .content-section p { color: var(--text); margin-bottom: 0.75rem; font-size: 0.95rem; }
+  .content-section ul, .content-section ol { margin: 0.75rem 0 0.75rem 1.5rem; color: var(--text); font-size: 0.95rem; }
+  .content-section li { margin-bottom: 0.4rem; }
+  .statute-box { background: #21262d; border-left: 3px solid var(--accent); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .statute-box p { margin-bottom: 0.5rem; } .statute-box p:last-child { margin-bottom: 0; }
+  .warning-box { background: #21262d; border-left: 3px solid var(--red); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .warning-box p { margin-bottom: 0.5rem; } .warning-box p:last-child { margin-bottom: 0; }
+  .yellow-box { background: #21262d; border-left: 3px solid var(--yellow); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .yellow-box p { margin-bottom: 0.5rem; } .yellow-box p:last-child { margin-bottom: 0; }
+  .green-box { background: #21262d; border-left: 3px solid var(--green); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .green-box p { margin-bottom: 0.5rem; } .green-box p:last-child { margin-bottom: 0; }
+  .content-section table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
+  .content-section th, .content-section td { padding: 0.6rem 0.75rem; text-align: left; border-bottom: 1px solid var(--border); }
+  .content-section th { color: var(--text-muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
+  .network-footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; }
+  .network-footer p { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
+  .network-footer .links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 0.75rem; }
+  .network-footer .links a { color: var(--text-muted); font-size: 0.85rem; } .network-footer .links a:hover { color: var(--accent); }
+  .network-footer .disclaimer { margin-top: 1rem; font-size: 0.75rem; color: var(--text-muted); }
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.5rem; } main { padding: 1.5rem 1rem; } .content-section { padding: 1.25rem; }
+    nav { padding: 0.75rem 1rem; } .hamburger { display: block; }
+    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
+    .nav-links.open { display: flex; }
+    .content-section table { font-size: 0.8rem; } .content-section th, .content-section td { padding: 0.5rem; }
+  }
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+
+<link rel="alternate" hreflang="es" href="https://canifileagain.org/calculator-es.html">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "When Can I File Bankruptcy Again? - Interactive Calculator",
+  "description": "Calculate your earliest eligible filing date based on your prior bankruptcy case. Enter your details to check all discharge bars and filing r...",
+  "url": "https://canifileagain.org/calculator.html",
+  "applicationCategory": "FinanceApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "provider": {
+    "@type": "Organization",
+    "name": "Open Bankruptcy Project",
+    "url": "https://openbankruptcyproject.org"
+  }
+}
+</script>
+</head>
+<body>
+
+<a href="#main-content" class="skip-link">Skip to main content</a>
+
+<nav role="navigation" aria-label="Site navigation">
+  <a href="/" class="site-name">canifileagain.org</a>
+  <button class="hamburger" aria-label="Toggle navigation menu" aria-expanded="false" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">&#9776;</button>
+  <div class="nav-links">
+    <a href="/">Home</a>
+    <a href="/waiting-periods.html">Waiting Periods</a>
+    <a href="/dismissed-vs-discharged.html">Dismissed vs Discharged</a>
+    <a href="/calculator.html" class="active">Calculator</a>
+    <a href="/state-rules.html">State Rules</a>
+    <a href="/strategic-refiling.html">Strategic Refiling</a>
+  </div>
+</nav>
+
+<header>
+  <h1>Filing Eligibility Calculator</h1>
+  <p class="subtitle">Enter your prior case details to calculate your earliest eligible filing and discharge dates.</p>
+</header>
+
+<main id="main-content">
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://canifileagain.org">Filing Bankruptcy Again</a><span class="separator">&rsaquo;</span><span>Filing Eligibility Calculator</span></nav>
+
+
+  <div class="content-section">
+    <h2>Eligibility Calculator</h2>
+    <div class="yellow-box"><p><strong>Full interactive calculator:</strong> Use the comprehensive free screener at <a href="https://1328f.com/check.html">1328f.com/check.html</a> - it checks all <a href="https://section1328.org" title="Section 1328 Discharge - Open Bankruptcy Project" target="_blank" rel="noopener">Section 1328</a>(f), <a href="https://727a8.com/" title="Section 727(a)(8)">727(a)(8)</a>, 727(a)(9), and <a href="https://109g.org/" title="Section 109(g)">109(g)</a> bars automatically.</p></div>
+    <p>To check your eligibility manually, you need:</p>
+    <ol>
+      <li><strong>Filing date</strong> of your prior case</li>
+      <li><strong>Chapter filed</strong> (7, 13, 11, or 12)</li>
+      <li><strong>How it ended</strong> (discharged, dismissed, or converted)</li>
+      <li><strong>Date of <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a></strong> (if applicable)</li>
+      <li><strong>Chapter you want to file now</strong></li>
+    </ol>
+  </div>
+
+  <div class="content-section">
+    <h2>Quick Reference</h2>
+    <table>
+      <tr><th scope="col">Prior</th><th scope="col">New</th><th scope="col">Wait</th><th scope="col">Earliest New Filing</th></tr>
+      <tr><td>Ch.7 (discharged)</td><td>Ch.7</td><td>8 years</td><td>Prior filing date + 8 years</td></tr>
+      <tr><td>Ch.7 (discharged)</td><td>Ch.13</td><td>4 years</td><td>Prior filing date + 4 years</td></tr>
+      <tr><td>Ch.13 (discharged)</td><td>Ch.7</td><td>6 years*</td><td>Prior filing date + 6 years*</td></tr>
+      <tr><td>Ch.13 (discharged)</td><td>Ch.13</td><td>2 years</td><td>Prior filing date + 2 years</td></tr>
+      <tr><td>Any (dismissed)</td><td>Any</td><td>0-180 days</td><td>Depends on <a href="https://109g.org/" title="Section 109(g)">109(g)</a></td></tr>
+    </table>
+    <p style="font-size:0.85rem;color:var(--text-muted)">* Exception if Ch.13 paid 100% or 70%+ in <a href="https://chapter13plan.org/" title="good faith">good faith</a> with best effort</p>
+  </div>
+
+  <div class="content-section">
+    <h2>Step-by-Step Manual Check</h2>
+    <ol>
+      <li><strong>Check 109(g):</strong> Was your prior <a href="https://dismissedbankruptcy.org/" title="dismissal">case dismissed</a> for willful failure to obey court orders, or voluntarily after a stay relief motion? If yes, you cannot file for 180 days from dismissal. <a href="https://109g.org/calculator.html">109g.org calculator</a></li>
+      <li><strong>Check <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> bars:</strong> Was a discharge entered? If yes, look up the applicable bar from the chart above. <a href="https://1328f.com/check.html">1328f.com screener</a></li>
+      <li><strong>Check stay limits:</strong> Was a <a href="https://dismissedbankruptcy.org/" title="dismissal">case dismissed</a> within the past year? If yes, the stay will be limited (362(c)(3)) or absent (362(c)(4)). <a href="https://automaticstay.org">automaticstay.org</a></li>
+      <li><strong>If no bars apply:</strong> You can file and receive a discharge immediately (subject to completing all requirements of the new case).</li>
+    </ol>
+  </div>
+
+  <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
+  <p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:1rem">No spam. No marketing. Just data.</p>
+  <form action="https://formspree.io/f/xkoqeyzw" method="POST" style="display:flex;gap:0.5rem;justify-content:center;flex-wrap:wrap">
+    <input type="email" name="email" placeholder="your@email.com" required style="padding:0.5rem 1rem;border-radius:6px;border:1px solid #30363d;background:#0d1117;color:#f0f6fc;font-size:0.9rem;min-width:250px">
+    <input type="hidden" name="_subject" value="BTN Research Subscriber">
+    <button type="submit" style="padding:0.5rem 1.5rem;border-radius:6px;border:none;background:#238636;color:#fff;font-weight:600;font-size:0.9rem;cursor:pointer">Subscribe</button>
+  </form>
+</div>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;max-width:700px;margin:2rem auto">
+    <p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Related Resources</p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://1328f.com/check.html" style="color:#58a6ff">1328f.com/check.html - Full interactive screener</a></p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://109g.org/calculator.html" style="color:#58a6ff">109g.org/calculator.html - 180-day calculator</a></p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://727a8.com" style="color:#58a6ff">727a8.com - 8-year bar guide</a></p>
+  </div>
+
+
+<!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
+<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+  <p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
+  <ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+  <li><a href="https://bankruptcydismissed.org" style="color:#58a6ff;text-decoration:none">Bankruptcy Dismissed - What Now?</a></li>
+  <li><a href="https://filebankruptcyagain.org" style="color:#58a6ff;text-decoration:none">File Bankruptcy Again Guide</a></li>
+  <li><a href="https://bankruptcyhardship.org" style="color:#58a6ff;text-decoration:none">Bankruptcy Hardship Discharge</a></li>
+  <li><a href="https://canifilebankruptcytwice.com" style="color:#58a6ff;text-decoration:none">Filing Bankruptcy Twice</a></li>
+  </ul>
+</div>
+
+</main>
+
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
+  <p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on repeat bankruptcy filings and filing bars:</p>
+  <ul style="list-style:none;padding:0;margin:0">
+    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/727" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 727(a)(8)-(9)</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII - Chapter 7 filing bars</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/1328" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 1328(f)</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII - Chapter 13 filing bars</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/109" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 109(g)</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII - 180-day bar</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.uscourts.gov/services-forms/bankruptcy/bankruptcy-basics" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Bankruptcy Basics</a><br><span style="color:#7d8590;font-size:0.8rem">USCourts.gov</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://1328f.com" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">1328(f) Screening Tool</a><br><span style="color:#7d8590;font-size:0.8rem">Open Bankruptcy Project screener</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.lawhelp.org/" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Find Free Legal Aid</a><br><span style="color:#7d8590;font-size:0.8rem">LSC legal aid finder</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://scholar.google.com/scholar?q=%22serial+filer%22+%22repeat+filing%22+bankruptcy" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Serial Filing Research</a><br><span style="color:#7d8590;font-size:0.8rem">Google Scholar</span></li>
+  </ul>
+</div>
+<!-- RELATED GUIDES - injected by inject_related_guides.py -->
+<div id="related-guides" style="max-width:900px;margin:2.5rem auto;padding:0 1rem">
+  <p style="color:#f0f6fc;font-weight:700;font-size:1.2rem;margin:0 0 1rem 0;text-align:center">Related Guides</p>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+    <a href="https://filebankruptcyagain.com?utm_source=canifileagain.org&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">File Bankruptcy Again</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free bankruptcy information guide</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">filebankruptcyagain.com &rarr;</p>
+    </a>
+    <a href="https://109g.org?utm_source=canifileagain.org&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Section 109(g) Filing Restrictions</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">180-day filing restriction under Section 109(g)</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">109g.org &rarr;</p>
+    </a>
+    <a href="https://1328f.com?utm_source=canifileagain.org&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Discharge Eligibility Screener</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free screener tool to check if you can file again</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">1328f.com &rarr;</p>
+    </a>
+    <a href="https://727a8.com?utm_source=canifileagain.org&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Chapter 7 Discharge Time Bar Guide</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Complete guide to the 8-year Chapter 7 discharge bar</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">727a8.com &rarr;</p>
+    </a>
+  </div>
+</div>
+<style>
+.related-card:hover {border-color:#58a6ff !important;transform:translateY(-2px)}
+</style>
+<!-- /RELATED GUIDES -->
+
+<!-- BOOST-TOP10 internal links (boost_internal_links.py) -->
+<div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
+  <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
+  <ul style="list-style:none;padding:0;margin:0">
+    <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=canifileagain.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=canifileagain.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://727a8.com/?utm_source=canifileagain.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Section 727(a)(8) Discharge Waiting Period</a> <span style="color:#7d8590;font-size:0.8rem">-- 727a8.com</span></li>
+  </ul>
+</div>
+<!-- BTN:FOOTER:START -->
+<footer class="network-footer" role="contentinfo">
+  <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+
+  <p><strong>Part of the Bankruptcy Transparency Network</strong></p>
+  <p>A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit</p>
+  <p>Real information, no strings.</p>
+  <div class="links">
+    <a href="https://automaticstay.org?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network">automaticstay.org</a>
+    <a href="https://meanstest.org?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network">meanstest.org</a>
+    <a href="https://341meeting.org?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network">341meeting.org</a>
+    <a href="https://523a.org?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network">523a.org</a>
+    <a href="https://109g.org?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network">109g.org</a>
+    <a href="https://727a8.com?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network">727a8.com</a>
+    <a href="https://prosedebtors.org?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network">prosedebtors.org</a>
+    <a href="https://howtofilebankruptcy.org?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network">howtofilebankruptcy.org</a>
+    <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a>
+    <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
+  </div>
+  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.</p>
+  <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
+</footer>
+<!-- BTN:FOOTER:END -->
+
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
+  <p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">0</span> of 37.9 million</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p>
+  <div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
+  <p style="margin-bottom:0.25rem"><span style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>
+  <p style="color:#9eaab6;font-size:0.8rem;margin-bottom:0.75rem">1,500+ hours. No grants, no institutional backing. 0 supporters so far.</p>
+  <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a>
+</div>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:700px;margin:2rem auto">
+<p style="color:#9eaab6;font-size:0.8rem;text-transform:uppercase;letter-spacing:0.05em;margin-bottom:0.25rem">Federal Rules Committee</p>
+<p style="color:#e6edf3;font-size:0.95rem;margin-bottom:0.25rem">This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: <a href="https://www.uscourts.gov/forms-rules/records-rules-committees/suggestions/dan-brown-26-bk-3" style="color:#58a6ff">Suggestion 26-BK-3</a> and <a href="https://www.uscourts.gov/forms-rules/records-rules-committees/suggestions/dan-brown-26-bk-5" style="color:#58a6ff">Suggestion 26-BK-5</a></p>
+<p style="color:#9eaab6;font-size:0.8rem;margin:0">Proposing automated <a href="https://section1328.org" title="Section 1328 Discharge - Open Bankruptcy Project" target="_blank" rel="noopener">Section 1328</a>(f) <a href="https://dischargebar.org" title="Bankruptcy Discharge Bar - Open Bankruptcy Project" target="_blank" rel="noopener">discharge bar</a> screening and <a href="https://openbankruptcyproject.org/rule-9037/" title="Rule 9037 SSN Redaction - Open Bankruptcy Project" target="_blank" rel="noopener">Rule 9037</a> SSN redaction in federal bankruptcy courts</p>
+</div>
+
+<script src="/btn-engage.js" defer></script>
+<script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString();var b=document.getElementById("recap-bar");if(b&&d.count)b.style.width=Math.min(100,d.count/37900000*100).toFixed(4)+"%";var dn=document.getElementById("recap-donated");if(dn&&d.donated!==undefined)dn.textContent="$"+d.donated.toLocaleString()}).catch(function(){})</script>
+<div style="text-align:center;padding:16px;color:#8b949e;font-size:0.8rem;border-top:1px solid #30363d;margin-top:20px"><p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p></div>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
+</body>
+</html>

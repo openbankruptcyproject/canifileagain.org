@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- BTN:GA4:START -->
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');</script>
+<!-- BTN:GA4:END -->
+<meta charset="UTF-8">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<title>Automatic Stay Limits for Repeat Filers</title>
+<meta name="description" content="Free guide to filing bankruptcy again. Discharge bars, waiting periods, and prior filing restrictions.">
+<link rel="canonical" href="https://canifileagain.org/stay-limits.html">
+<meta property="og:title" content="Automatic Stay Limits for Repeat Filers">
+<meta property="og:description" content="Free guide to filing bankruptcy again. Discharge bars, waiting periods, and prior filing restrictions.">
+<meta property="og:url" content="https://canifileagain.org/stay-limits.html">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Open Bankruptcy Project","url":"https://1328f.org"}</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Can I File Bankruptcy Again?",
+      "description": "Free guide to filing bankruptcy again. Discharge bars, waiting periods, and prior filing restrictions.",
+      "author": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project",
+        "url": "https://1328f.org"
+      },
+      "datePublished": "2026-03-28",
+      "dateModified": "2026-03-29",
+      "mainEntityOfPage": "https://canifileagain.org/stay-limits.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://canifileagain.org"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Filing Bankruptcy Again",
+          "item": "https://canifileagain.org"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Can I File Bankruptcy Again?",
+          "item": "https://canifileagain.org/stay-limits.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "name": "Can I File Bankruptcy Again?",
+      "url": "https://canifileagain.org/stay-limits.html",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".quick-answer",
+          "h1",
+          ".summary",
+          "p:first-of-type"
+        ]
+      }
+    }
+  ]
+}
+</script>
+<style>
+:root{--bg:#0d1117;--surface:#161b22;--border:#30363d;--text:#e6edf3;--text-muted:#9eaab6;--accent:#58a6ff;--green:#3fb950}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:var(--bg);color:var(--text);line-height:1.7}
+a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
+nav{background:var(--surface);border-bottom:1px solid var(--border);padding:0.75rem 2rem;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:0.5rem}
+nav .site-name{color:#f0f6fc;font-weight:700;font-size:1.1rem;text-decoration:none}
+.nav-links{display:flex;gap:1.25rem;flex-wrap:wrap;align-items:center}
+.nav-links a{color:var(--text-muted);font-size:0.9rem}
+header{background:var(--surface);border-bottom:1px solid var(--border);padding:3rem 2rem;text-align:center}
+header h1{color:#f0f6fc;font-size:2rem;margin-bottom:0.75rem}
+header .subtitle{color:var(--text-muted);font-size:1.05rem;max-width:700px;margin:0 auto}
+main{max-width:820px;margin:0 auto;padding:2rem 1.5rem}
+.content-section{background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:2rem;margin-bottom:1.5rem}
+.content-section h2{color:#f0f6fc;font-size:1.3rem;margin-bottom:1rem;padding-bottom:0.5rem;border-bottom:1px solid var(--border)}
+.content-section p{color:var(--text);margin-bottom:0.75rem;font-size:0.95rem}
+.cta-box{background:var(--surface);border:1px solid var(--accent);border-radius:6px;padding:1.5rem 2rem;text-align:center;margin-bottom:1.5rem}
+.cta-box a.btn{display:inline-block;background:#238636;color:#fff;padding:0.6rem 1.5rem;border-radius:6px;font-weight:600;text-decoration:none}
+.network-footer{background:var(--surface);border-top:1px solid var(--border);padding:2rem;text-align:center;margin-top:3rem}
+.network-footer p{color:var(--text-muted);font-size:0.85rem;margin-bottom:0.5rem}
+.network-footer .links{display:flex;justify-content:center;flex-wrap:wrap;gap:1rem;margin-top:0.75rem}
+.network-footer .links a{color:var(--text-muted);font-size:0.85rem}
+.network-footer .disclaimer{margin-top:1rem;font-size:0.75rem;color:var(--text-muted)}
+@media(max-width:600px){header h1{font-size:1.5rem}main{padding:1.5rem 1rem}nav{padding:0.75rem 1rem}}
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://canifileagain.org/og-image.svg">
+<meta name="twitter:image" content="https://canifileagain.org/og-image.svg">
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Can I File Bankruptcy Again?", "acceptedAnswer": {"@type": "Answer", "text": "The automatic stay is a court order that takes effect immediately when you file bankruptcy. It stops most collection actions, lawsuits, foreclosures, repossessions, wage garnishments, and creditor harassment. It remains in effect until the case is closed or the debt is discharged."}}, {"@type": "Question", "name": "What is the automatic stay in bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "The automatic stay is a court order that takes effect immediately when you file bankruptcy. It stops most collection actions, lawsuits, foreclosures, repossessions, wage garnishments, and creditor harassment. It remains in effect until the case is closed or the debt is discharged."}}, {"@type": "Question", "name": "Can a creditor violate the automatic stay?", "acceptedAnswer": {"@type": "Answer", "text": "Creditors who violate the automatic stay can be held in contempt of court. You may recover actual damages, attorney fees, and in some cases punitive damages. Common violations include continued collection calls, repossessing property, or proceeding with a lawsuit after notice of the filing."}}, {"@type": "Question", "name": "How long does the automatic stay last?", "acceptedAnswer": {"@type": "Answer", "text": "The stay lasts until the bankruptcy case is closed, dismissed, or the debtor receives a discharge. If you filed a previous case that was dismissed within the past year, the stay may only last 30 days unless you file a motion to extend it."}}, {"@type": "Question", "name": "Does the automatic stay stop eviction?", "acceptedAnswer": {"@type": "Answer", "text": "The stay temporarily stops most evictions, but landlords can request relief from stay. If the landlord already obtained a judgment for possession before you filed, the stay may not apply at all. The protection is limited and temporary in most eviction situations."}}]}
+</script>
+
+<link rel="alternate" hreflang="en" href="https://canifileagain.org/stay-limits.html">
+<link rel="alternate" hreflang="es" href="https://canifileagain.org/stay-limits-es.html">
+</head>
+<body>
+<nav><a href="/" class="site-name">canifileagain.org</a>
+<div class="nav-links"><a href="https://1328f.com">1328f.com</a><a href="https://1328f.org">1328f.org</a></div></nav>
+<header><h1>Can I File Bankruptcy Again?</h1><p class="subtitle">Free tool to check if you can file bankruptcy again. Discharge bars, waiting periods, and prior filing restrictions explained.</p></header>
+<main id="main-content">
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://canifileagain.org">Filing Bankruptcy Again</a><span class="separator">&rsaquo;</span><span>Can I File Bankruptcy Again?</span></nav>
+
+
+  <div class="content-section">
+    <h2>One Prior Dismissal - 30-Day Stay</h2>
+    <p><a href="https://automaticstay.org" title="Section 362 Automatic Stay - Open Bankruptcy Project" target="_blank" rel="noopener">Section 362</a>(c)(3): If you had a case pending and dismissed within the year before your new filing, the <a href="https://automaticstay.org" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay</a> expires after 30 days unless you file a motion to extend it. You must show the new filing is in <a href="https://chapter13plan.org/" title="good faith">good faith</a>.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>Two or More Prior Dismissals - No Stay</h2>
+    <p><a href="https://automaticstay.org" title="Section 362 Automatic Stay - Open Bankruptcy Project" target="_blank" rel="noopener">Section 362</a>(c)(4): If you had two or more cases pending and dismissed within the year before filing, you get NO <a href="https://automaticstay.org" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay</a> at all. You must file a motion and prove <a href="https://chapter13plan.org/" title="good faith">good faith</a> to get any stay protection. Until the court grants your motion, creditors can continue collection.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>How to Extend the Stay</h2>
+    <p>File a motion to extend or impose the stay before it expires (within 30 days for 362(c)(3), or as soon as possible for 362(c)(4)). Demonstrate that the new case is filed in good faith - changed circumstances, ability to complete the plan, specific reason prior case was dismissed. <a href="https://serialfiler.org">Full serial filing guide</a>.</p>
+  </div>
+
+  <div class="cta-box">
+    <p>Check your eligibility</p>
+    <a href="https://1328f.com?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network" class="btn">Free Discharge Screener</a>
+  </div>
+
+<!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
+<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+  <p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
+  <ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+  <li><a href="https://bankruptcydismissed.org" style="color:#58a6ff;text-decoration:none">Bankruptcy Dismissed - What Now?</a></li>
+  <li><a href="https://filebankruptcyagain.org" style="color:#58a6ff;text-decoration:none">File Bankruptcy Again Guide</a></li>
+  <li><a href="https://bankruptcyhardship.org" style="color:#58a6ff;text-decoration:none">Bankruptcy Hardship Discharge</a></li>
+  <li><a href="https://canifilebankruptcytwice.com" style="color:#58a6ff;text-decoration:none">Filing Bankruptcy Twice</a></li>
+  </ul>
+</div>
+
+</main>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
+  <p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on repeat bankruptcy filings and filing bars:</p>
+  <ul style="list-style:none;padding:0;margin:0">
+    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/727" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 727(a)(8)-(9)</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII - Chapter 7 filing bars</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/1328" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 1328(f)</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII - Chapter 13 filing bars</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/109" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 109(g)</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII - 180-day bar</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.uscourts.gov/services-forms/bankruptcy/bankruptcy-basics" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Bankruptcy Basics</a><br><span style="color:#7d8590;font-size:0.8rem">USCourts.gov</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://1328f.com" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">1328(f) Screening Tool</a><br><span style="color:#7d8590;font-size:0.8rem">Open Bankruptcy Project screener</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.lawhelp.org/" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Find Free Legal Aid</a><br><span style="color:#7d8590;font-size:0.8rem">LSC legal aid finder</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://scholar.google.com/scholar?q=%22serial+filer%22+%22repeat+filing%22+bankruptcy" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Serial Filing Research</a><br><span style="color:#7d8590;font-size:0.8rem">Google Scholar</span></li>
+  </ul>
+</div>
+<!-- RELATED GUIDES - injected by inject_related_guides.py -->
+<div id="related-guides" style="max-width:900px;margin:2.5rem auto;padding:0 1rem">
+  <p style="color:#f0f6fc;font-weight:700;font-size:1.2rem;margin:0 0 1rem 0;text-align:center">Related Guides</p>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+    <a href="https://filebankruptcyagain.com?utm_source=canifileagain.org&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">File Bankruptcy Again</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free bankruptcy information guide</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">filebankruptcyagain.com &rarr;</p>
+    </a>
+    <a href="https://109g.org?utm_source=canifileagain.org&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Section 109(g) Filing Restrictions</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">180-day filing restriction under Section 109(g)</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">109g.org &rarr;</p>
+    </a>
+    <a href="https://1328f.com?utm_source=canifileagain.org&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Discharge Eligibility Screener</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free screener tool to check if you can file again</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">1328f.com &rarr;</p>
+    </a>
+    <a href="https://727a8.com?utm_source=canifileagain.org&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Chapter 7 Discharge Time Bar Guide</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Complete guide to the 8-year Chapter 7 discharge bar</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">727a8.com &rarr;</p>
+    </a>
+  </div>
+</div>
+<style>
+.related-card:hover {border-color:#58a6ff !important;transform:translateY(-2px)}
+</style>
+<!-- /RELATED GUIDES -->
+
+<!-- BOOST-TOP10 internal links (boost_internal_links.py) -->
+<div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
+  <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
+  <ul style="list-style:none;padding:0;margin:0">
+    <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=canifileagain.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=canifileagain.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://relieffromstay.org/?utm_source=canifileagain.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Relief from Automatic Stay</a> <span style="color:#7d8590;font-size:0.8rem">-- relieffromstay.org</span></li>
+  </ul>
+</div>
+<!-- BTN:FOOTER:START -->
+<footer class="network-footer">
+  <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+
+<p>Part of the <strong>Open Bankruptcy Project</strong></p>
+<div class="links"><a href="https://1328f.com?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network">1328f.com</a><a href="https://1328f.org?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network">1328f.org</a><a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a></div>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.</p>
+  <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=canifileagain.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
+<div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
+<p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" target="_blank" rel="noopener" style="color:#58a6ff">Suggestion 26-BK-3</a></p>
+</div>
+</footer>
+<!-- BTN:FOOTER:END -->
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
+  <p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">91</span> of 37.9 million</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p>
+  <div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
+  <p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:1rem">No spam. No marketing. Just data.</p>
+  <form action="https://formspree.io/f/xkoqeyzw" method="POST" style="display:flex;gap:0.5rem;justify-content:center;flex-wrap:wrap">
+    <input type="email" name="email" placeholder="your@email.com" required style="padding:0.5rem 1rem;border-radius:6px;border:1px solid #30363d;background:#0d1117;color:#f0f6fc;font-size:0.9rem;min-width:250px">
+    <input type="hidden" name="_subject" value="BTN Research Subscriber">
+    <button type="submit" style="padding:0.5rem 1.5rem;border-radius:6px;border:none;background:#238636;color:#fff;font-weight:600;font-size:0.9rem;cursor:pointer">Subscribe</button>
+  </form>
+</div>
+<div id="recap-bar" style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
+  <p style="margin-bottom:0.25rem"><span id="recap-donated" style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>
+  <p style="color:#9eaab6;font-size:0.8rem;margin-bottom:0.75rem">1,500+ hours. No grants, no institutional backing.</p>
+  <a href="https://1328f.org/support/" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Sponsor this research</a>
+</div>
+<script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString();var b=document.getElementById("recap-bar");if(b&&d.count)b.style.width=Math.min(100,d.count/37900000*100).toFixed(4)+"%";var dn=document.getElementById("recap-donated");if(dn&&d.donated!==undefined)dn.textContent="$"+d.donated.toLocaleString()}).catch(function(){})</script>
+<script src="/btn-engage.js" defer></script>
+<div style="text-align:center;padding:16px;color:#8b949e;font-size:0.8rem;border-top:1px solid #30363d;margin-top:20px"><p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p></div>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
+</body></html>
