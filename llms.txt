@@ -1,5 +1,5 @@
 # Can I File Bankruptcy Again? - Waiting Periods [2026]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 > Can you file bankruptcy again? Waiting periods between filings depend on chapter type. 4, 6, or 8 years. Free 2026 calculator.
 
@@ -8,13 +8,66 @@ canifileagain.org is part of the Open Bankruptcy Project (openbankruptcyproject.
 
 ## Key Pages
 - When Can I File Bankruptcy Again? - Interactive Calculator: https://canifileagain.org/calculator.html
-- Dismissed vs Discharged Bankruptcy - What It Means for Refiling: https://canifileagain.org/dismissed-vs-discharged.html
+- Dismissed vs Discharged Bankruptcy [2026]: How Each Outcome Affects Refiling Eligibility: https://canifileagain.org/dismissed-vs-discharged.html
 - Can I File Bankruptcy Again? - Waiting Periods: https://canifileagain.org/
-- Filing Bankruptcy Again - State Rules and Considerations: https://canifileagain.org/state-rules.html
+- State Refiling Rules [2026]: Exemption-Domicile Lookback, Venue, and Local Court Practice: https://canifileagain.org/state-rules.html
 - Automatic Stay Limits for Repeat Filers: https://canifileagain.org/stay-limits.html
-- Strategic Refiling of Bankruptcy - When It Makes Sense: https://canifileagain.org/strategic-refiling.html
-- Bankruptcy Waiting Periods Chart - All Discharge Bars: https://canifileagain.org/waiting-periods.html
+- Strategic Bankruptcy Refiling [2026]: Chapter 20, Plan Conversion, and Lien Stripping Timing: https://canifileagain.org/strategic-refiling.html
+- Bankruptcy Waiting Periods [2026]: 8/6/4/2 Year Rule Under 727(a)(8) and 1328(f): https://canifileagain.org/waiting-periods.html
 - Privacy Policy: https://canifileagain.org/privacy.html
+- About canifileagain.org: https://canifileagain.org/about.html
+- Can I File Bankruptcy Again in Alabama? [2026] Refile Timing Rules: https://canifileagain.org/states/alabama.html
+- Can I File Bankruptcy Again in Alaska? [2026] Refile Timing Rules: https://canifileagain.org/states/alaska.html
+- Can I File Bankruptcy Again in Arizona? [2026] Refile Timing Rules: https://canifileagain.org/states/arizona.html
+- Can I File Bankruptcy Again in Arkansas? [2026] Refile Timing Rules: https://canifileagain.org/states/arkansas.html
+- Can I File Bankruptcy Again in California? [2026] Refile Timing Rules: https://canifileagain.org/states/california.html
+- Can I File Bankruptcy Again in Colorado? [2026] Refile Timing Rules: https://canifileagain.org/states/colorado.html
+- Can I File Bankruptcy Again in Connecticut? [2026] Refile Timing Rules: https://canifileagain.org/states/connecticut.html
+- Can I File Bankruptcy Again in Delaware? [2026] Refile Timing Rules: https://canifileagain.org/states/delaware.html
+- Can I File Bankruptcy Again in District of Columbia? [2026] Refile Timing Rules: https://canifileagain.org/states/district-of-columbia.html
+- Can I File Bankruptcy Again in Florida? [2026] Refile Timing Rules: https://canifileagain.org/states/florida.html
+- Can I File Bankruptcy Again in Georgia? [2026] Refile Timing Rules: https://canifileagain.org/states/georgia.html
+- Can I File Bankruptcy Again in Hawaii? [2026] Refile Timing Rules: https://canifileagain.org/states/hawaii.html
+- Can I File Bankruptcy Again in Idaho? [2026] Refile Timing Rules: https://canifileagain.org/states/idaho.html
+- Can I File Bankruptcy Again in Illinois? [2026] Refile Timing Rules: https://canifileagain.org/states/illinois.html
+- Refile Timing by State by State: https://canifileagain.org/states/
+- Can I File Bankruptcy Again in Indiana? [2026] Refile Timing Rules: https://canifileagain.org/states/indiana.html
+- Can I File Bankruptcy Again in Iowa? [2026] Refile Timing Rules: https://canifileagain.org/states/iowa.html
+- Can I File Bankruptcy Again in Kansas? [2026] Refile Timing Rules: https://canifileagain.org/states/kansas.html
+- Can I File Bankruptcy Again in Kentucky? [2026] Refile Timing Rules: https://canifileagain.org/states/kentucky.html
+- Can I File Bankruptcy Again in Louisiana? [2026] Refile Timing Rules: https://canifileagain.org/states/louisiana.html
+- Can I File Bankruptcy Again in Maine? [2026] Refile Timing Rules: https://canifileagain.org/states/maine.html
+- Can I File Bankruptcy Again in Maryland? [2026] Refile Timing Rules: https://canifileagain.org/states/maryland.html
+- Can I File Bankruptcy Again in Massachusetts? [2026] Refile Timing Rules: https://canifileagain.org/states/massachusetts.html
+- Can I File Bankruptcy Again in Michigan? [2026] Refile Timing Rules: https://canifileagain.org/states/michigan.html
+- Can I File Bankruptcy Again in Minnesota? [2026] Refile Timing Rules: https://canifileagain.org/states/minnesota.html
+- Can I File Bankruptcy Again in Mississippi? [2026] Refile Timing Rules: https://canifileagain.org/states/mississippi.html
+- Can I File Bankruptcy Again in Missouri? [2026] Refile Timing Rules: https://canifileagain.org/states/missouri.html
+- Can I File Bankruptcy Again in Montana? [2026] Refile Timing Rules: https://canifileagain.org/states/montana.html
+- Can I File Bankruptcy Again in Nebraska? [2026] Refile Timing Rules: https://canifileagain.org/states/nebraska.html
+- Can I File Bankruptcy Again in Nevada? [2026] Refile Timing Rules: https://canifileagain.org/states/nevada.html
+- Can I File Bankruptcy Again in New Hampshire? [2026] Refile Timing Rules: https://canifileagain.org/states/new-hampshire.html
+- Can I File Bankruptcy Again in New Jersey? [2026] Refile Timing Rules: https://canifileagain.org/states/new-jersey.html
+- Can I File Bankruptcy Again in New Mexico? [2026] Refile Timing Rules: https://canifileagain.org/states/new-mexico.html
+- Can I File Bankruptcy Again in New York? [2026] Refile Timing Rules: https://canifileagain.org/states/new-york.html
+- Can I File Bankruptcy Again in North Carolina? [2026] Refile Timing Rules: https://canifileagain.org/states/north-carolina.html
+- Can I File Bankruptcy Again in North Dakota? [2026] Refile Timing Rules: https://canifileagain.org/states/north-dakota.html
+- Can I File Bankruptcy Again in Ohio? [2026] Refile Timing Rules: https://canifileagain.org/states/ohio.html
+- Can I File Bankruptcy Again in Oklahoma? [2026] Refile Timing Rules: https://canifileagain.org/states/oklahoma.html
+- Can I File Bankruptcy Again in Oregon? [2026] Refile Timing Rules: https://canifileagain.org/states/oregon.html
+- Can I File Bankruptcy Again in Pennsylvania? [2026] Refile Timing Rules: https://canifileagain.org/states/pennsylvania.html
+- Can I File Bankruptcy Again in Rhode Island? [2026] Refile Timing Rules: https://canifileagain.org/states/rhode-island.html
+- Can I File Bankruptcy Again in South Carolina? [2026] Refile Timing Rules: https://canifileagain.org/states/south-carolina.html
+- Can I File Bankruptcy Again in South Dakota? [2026] Refile Timing Rules: https://canifileagain.org/states/south-dakota.html
+- Can I File Bankruptcy Again in Tennessee? [2026] Refile Timing Rules: https://canifileagain.org/states/tennessee.html
+- Can I File Bankruptcy Again in Texas? [2026] Refile Timing Rules: https://canifileagain.org/states/texas.html
+- Can I File Bankruptcy Again in Utah? [2026] Refile Timing Rules: https://canifileagain.org/states/utah.html
+- Can I File Bankruptcy Again in Vermont? [2026] Refile Timing Rules: https://canifileagain.org/states/vermont.html
+- Can I File Bankruptcy Again in Virginia? [2026] Refile Timing Rules: https://canifileagain.org/states/virginia.html
+- Can I File Bankruptcy Again in Washington? [2026] Refile Timing Rules: https://canifileagain.org/states/washington.html
+- Can I File Bankruptcy Again in West Virginia? [2026] Refile Timing Rules: https://canifileagain.org/states/west-virginia.html
+- Can I File Bankruptcy Again in Wisconsin? [2026] Refile Timing Rules: https://canifileagain.org/states/wisconsin.html
+- Can I File Bankruptcy Again in Wyoming? [2026] Refile Timing Rules: https://canifileagain.org/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
