@@ -770,7 +770,7 @@ If you have not been in your current state for 2 years, you must use the exempti
 
 The Homestead Cap for Recent Movers
 
-Section 522(p) caps the homestead exemption at $189,050 (adjusted periodically) if the debtor acquired the homestead within the 1,215 days (approximately 3.3 years) before filing and cannot trace the equity to a prior home in the same state.
+Section 522(p) caps the homestead exemption at $214,000 (adjusted periodically) if the debtor acquired the homestead within the 1,215 days (approximately 3.3 years) before filing and cannot trace the equity to a prior home in the same state.
 
 This prevents "exemption planning" - buying an expensive home in a state with unlimited homestead exemption shortly before filing bankruptcy.
 
